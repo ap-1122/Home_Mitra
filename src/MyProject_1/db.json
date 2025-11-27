@@ -1,0 +1,117 @@
+{
+  "bookings": [
+    {
+      "id": "e15f",
+      "service": "Plumbing",
+      "date": "2025-11-06",
+      "time": "03:18",
+      "locationType": "Office",
+      "address": {
+        "street": "ashoka garden",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "zipcode": "462023"
+      },
+      "bookedAt": "2025-10-31T06:45:50.280Z"
+    },
+    {
+      "id": "aac4",
+      "service": "Carpentry",
+      "date": "2025-11-02",
+      "time": "02:27",
+      "locationType": "Home",
+      "address": {
+        "street": "new market ",
+        "city": "bhopal",
+        "state": "Madhya Pradesh",
+        "zipcode": "462020"
+      },
+      "bookedAt": "2025-10-31T06:55:25.094Z"
+    },
+    {
+      "id": "8afa",
+      "service": "Plumbing",
+      "date": "2025-11-07",
+      "time": "16:00",
+      "locationType": "Office",
+      "address": {
+        "street": "ashoka garden",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "zipcode": "462023"
+      },
+      "bookedAt": "2025-10-31T07:30:37.407Z"
+    },
+    {
+      "id": "7569",
+      "service": "Painting services",
+      "date": "2025-10-17",
+      "time": "07:45",
+      "locationType": "Home",
+      "address": {
+        "street": "ashoka garden",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "zipcode": "462023"
+      },
+      "bookedAt": "2025-10-31T10:16:01.882Z"
+    },
+    {
+      "id": "c2f4",
+      "service": "Plumbing",
+      "date": "2025-11-05",
+      "time": "23:49",
+      "locationType": "Home",
+      "address": {
+        "street": "new market ",
+        "city": "bhopal",
+        "state": "Madhya Pradesh",
+        "zipcode": "462020"
+      },
+      "bookedAt": "2025-10-31T14:19:40.016Z"
+    },
+    {
+      "id": "2ef3",
+      "service": "Plumbing",
+      "date": "2025-11-14",
+      "time": "16:38",
+      "locationType": "Office",
+      "address": {
+        "street": "new market ",
+        "city": "bhopal",
+        "state": "Delhi",
+        "zipcode": "462020"
+      },
+      "bookedAt": "2025-11-06T11:06:40.992Z"
+    }
+  ],
+  "addresses": [
+    {
+      "id": "e83a",
+      "name": "Aditya Pratap Singh",
+      "phone": "09589303667",
+      "street": "ashoka garden",
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "zipcode": "462023"
+    },
+    {
+      "id": "99df",
+      "name": "Apsingh",
+      "phone": "1234567890",
+      "street": "new market ",
+      "city": "bhopal",
+      "state": "Madhya Pradesh",
+      "zipcode": "462020"
+    },
+    {
+      "id": "cf8b",
+      "name": "AYUSH",
+      "phone": "1234567890",
+      "street": "REWA",
+      "city": "bhopal",
+      "state": "Madhya Pradesh",
+      "zipcode": "462020"
+    }
+  ]
+}
